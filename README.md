@@ -21,4 +21,3 @@ For optimisations, I would add more words to the list and reorganise/tidy up the
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-# Wordle-API
